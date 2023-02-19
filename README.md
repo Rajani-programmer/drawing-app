@@ -1,2 +1,1 @@
-# drawing-app
-Drawing App  by RKD
+# Drawing-App using HTML CSS & JavaScript by RKD
